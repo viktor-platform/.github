@@ -11,4 +11,4 @@ VIKTOR is a managed solution for everyone, from development-enthusiast to enterp
 - Share apps with everyone in your organization
 - Turn any workflow into a friendly app
 
-Apply for a demo account [here](https://www.viktor.ai/start-building-apps) to get access to this and all other VIKTOR sample applications
+Apply for a free demo account [here](https://www.viktor.ai/start-building-apps) to get access to this and all other VIKTOR sample applications

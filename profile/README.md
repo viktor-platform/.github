@@ -1,14 +1,21 @@
-# Build and share awesome engineering apps 🏗️
+# Automate the boring, engineer the awesome! 🏗️
+VIKTOR is the low-code platform empowering engineers to build and share user-friendly web apps with nothing but Python.
+VIKTOR is a managed solution for everyone, from development-enthusiasts to enterprises.
 
-VIKTOR is the low-code platform empowering engineers to build and share user-friendly web apps with nothing but Python. VIKTOR is the development platform for the engineering and construction industry. 
+<p align="center">
+  <img width="95%" alt="slide-1" src="https://user-images.githubusercontent.com/95350791/198277284-7502e9cd-5547-4bc0-a2c3-a1ef50785c15.png">
+</p>
+
+With VIKTOR, you can:
+- Create apps, fast!
+- Integrate 3d party Software
+- Manage your data in a single workspace
+- Share apps with everyone in or outside your organization 
+- Focus on what matters most, let us handle the rest
+
+To show off what is possible with VIKTOR, and to give you some inspiration for your next application, we've prepared some sample-apps for you. On this page, you can find the repositories. For more information on how to setup a VIKTOR application see the [documentation](https://docs.viktor.ai/docs/welcome/).
 
 
-# Let us automate the boring while you engineer the awesome  🚀
-VIKTOR is a managed solution for everyone, from development-enthusiast to enterprises.
-- You don’t have to worry about infrastructure
-- We automatically scale according to your needs
-- Never lose data, and have it is always available
-- Share apps with everyone in your organization
-- Turn any workflow into a friendly app
+# Get started, today! 🚀	
+Eager to get up and running? Great, it's FREE! Simply apply for a demo account [here](https://www.viktor.ai/start-building-apps) to get access to the VIKTOR platform and all sample applications.
 
-Apply for a free demo account [here](https://www.viktor.ai/start-building-apps) to get access to this and all other VIKTOR sample applications

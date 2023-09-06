@@ -8,7 +8,7 @@ VIKTOR is a managed solution for everyone, from development-enthusiasts to enter
 
 With VIKTOR, you can:
 - Create apps, fast!
-- Integrate 3d party Software
+- Integrate third-party software
 - Manage your data in a single workspace
 - Share apps with everyone in or outside your organization 
 - Focus on what matters most, let us handle the rest
